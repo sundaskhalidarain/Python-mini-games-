@@ -25,20 +25,6 @@ This repository contains **6 beginner-friendly Python mini games** created to pr
 
 - Python 3
 
-## ▶️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
-
-2. Open the project folder.
-
-3. Run any game:
-   ```bash
-   python filename.py
-   ```
-
 ## 📚 Purpose
 
 These mini projects were built to improve my Python programming skills and gain hands-on experience with basic game development.
